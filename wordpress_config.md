@@ -147,3 +147,4 @@ $ sudo systemctl restart apache2
 
 and open browser localhost/wordpress open wordpress defoult page
 
+Done
